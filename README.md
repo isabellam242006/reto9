@@ -94,7 +94,7 @@ if __name__ == "__main__":
     e = int(input("Ingrese quinto número: "))
     print("La mediana es " + str(calcular_mediana(a,b,c,d,e)))
 ```
-*En este caso se utilizó la función ```sorted``` que sirve para ordenar la tupla generada en este caso con ```args``` de forma ascendente. La función ```sort``` no es posible usarla con tuplas, por lo que no se utiliza.*
+*En este caso se utilizó la función ```sorted``` que sirve para ordenar la tupla generada con ```args``` de forma ascendente. La función ```sort``` no es posible usarla con tuplas, por lo que no se utiliza.*
   
 ```python
 #Escriba un programa que pida 5 números reales y los orden ascendentemente
