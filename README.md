@@ -173,7 +173,7 @@ def fibo(n : int )-> int:
 if __name__ == "__main__":
   num = int(input("Ingrese el mismo numero: "))
   serieFibo = fibo(num)
-  print("La serie de Fibonacci hasta " + str(num) + " usando función convencional es " + str(serieFibo))
+  print("La serie de Fibonacci hasta " + str(num) + " usando función iterativa es " + str(serieFibo))
 end_time_2 = time.time()
 
 timer2 = end_time_2 - start_time_2
@@ -189,7 +189,7 @@ else:
 if timer2>timer1:
   print("La función recursiva se ha ejecutado más rápido que la función convencional")
 else:
-  print("La función convencional se ha ejecutado más rápido que la función recursiva")
+  print("La función iterativa se ha ejecutado más rápido que la función recursiva")
 ```
 5. Crear cuenta en stackoverflow y adjuntar imagen en el repo
 
