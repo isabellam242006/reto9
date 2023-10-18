@@ -1,4 +1,4 @@
-# reto9
+# reto_9
 1. De los retos anteriores selecione 3 funciones y escribalas en forma de lambdas.
 
 ```python
