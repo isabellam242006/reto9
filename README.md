@@ -58,7 +58,7 @@ if __name__ == "__main__":
     e = int(input("Ingrese quinto número: "))
     print("El promedio es " + str(calcular_promedio(a,b,c,d,e)))
 ```
-*La mediana se calculó de dos formas. Utilizando la propiedad misma del arreglo que se crea con ```args``` para encontrar el elemento del medio (En su defecto se ecnontrará el elemento de la mitad porque se tratan de 5 números, en el caso de que fuera un número de elmentos par, entonces se calcurá el promedio de los 2 números que se encuentren en la mitad). La otra forma es utilizar una función importada para calcular la mediana.*
+*La mediana se calculó de dos formas. Utilizando la propiedad misma del arreglo que se crea con ```args``` para encontrar el elemento del medio (En su defecto se encontrará el elemento de la mitad porque se tratan de 5 números, en el caso de que fuera un número de elementos par, entonces se calculará el promedio de los 2 números que se encuentren en la mitad). La otra forma es utilizar una función importada para calcular la mediana.*
 ```python
 #Escriba un programa que pida 5 números reales y calcule la mediana
 
