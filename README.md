@@ -1,7 +1,7 @@
 # reto_9
 1. De los retos anteriores selecione 3 funciones y escribalas en forma de lambdas.
 
-*En cada uno de los programas de este punto se utilizó lambdas par definir una función en una sola línea de código*
+*En cada uno de los programas de este punto se utilizó lambdas para definir una función en una sola línea de código*
 
 ```python
 #En 2022 el país A tendrá una población de 25 millones de habitantes y el país B de 18.9 millones.
