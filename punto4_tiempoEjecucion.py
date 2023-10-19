@@ -54,6 +54,6 @@ else:
   print("La diferencia aún no es significativa cuando el número dado es: " + str(num))
 
 if timer2>timer1:
-  print("La función recursiva se ha ejecutado más rápido que la función convencional")
+  print("La función recursiva se ha ejecutado más rápido que la función iterativa")
 else:
   print("La función iterativa se ha ejecutado más rápido que la función recursiva")
